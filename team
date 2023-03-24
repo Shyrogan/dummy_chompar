@@ -1,0 +1,10 @@
+[
+  {
+    "asset": [1],
+    "description": "La description de l'équipe.",
+    "id": 1,
+    "members": ["Membre 1"],
+    "name": "Team",
+    "projects": [1]
+  }
+]
