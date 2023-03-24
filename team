@@ -1,6 +1,6 @@
 [
   {
-    "asset": [Balard.fbx],
+    "asset": ["Balard.fbx"],
     "description": "La description de l'équipe.",
     "id": 1,
     "members": ["Membre 1"],
