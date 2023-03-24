@@ -1,6 +1,6 @@
 [
   {
-    "assets": [1],
+    "assets": [ICSM.obj],
     "description": "description du projet 1",
     "id": 1,
     "name": "Projet 1",
